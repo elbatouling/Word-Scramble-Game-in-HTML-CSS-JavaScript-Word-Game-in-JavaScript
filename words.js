@@ -1,0 +1,22 @@
+const words = [
+  { word: "addition", hint: "the process of adding numbers" },
+  { word: "browser", hint: "a tool you use to open websites" },
+  { word: "variable", hint: "a container that stores a value" },
+  { word: "array", hint: "a list of items in order" },
+  { word: "function", hint: "a block of code that does a task" },
+  { word: "network", hint: "a group of connected devices" },
+  { word: "server", hint: "a machine that gives data to others" },
+  { word: "client", hint: "a device that asks for data" },
+  { word: "router", hint: "a device that sends internet traffic" },
+  { word: "loop", hint: "a way to repeat code" },
+  { word: "object", hint: "a structure with key and value" },
+  { word: "boolean", hint: "a value that is true or false" },
+  { word: "string", hint: "a group of characters" },
+  { word: "debug", hint: "the act of fixing errors" },
+  { word: "compile", hint: "the act of turning code into machine form" },
+  { word: "encrypt", hint: "the act of hiding data" },
+  { word: "decrypt", hint: "the act of showing hidden data" },
+  { word: "database", hint: "a place to store information" },
+  { word: "backup", hint: "a saved copy of data" },
+  { word: "firewall", hint: "a tool that controls network traffic" }
+];
